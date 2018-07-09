@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^download_zip.zip      index.php?page=units_zip_importer&download_zip [L]
+RewriteRule ^download_db_zip.zip      index.php?page=units_zip_importer&download_db_zip [L]

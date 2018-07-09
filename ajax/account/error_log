@@ -1,0 +1,7 @@
+[08-Aug-2014 10:04:20 UTC] PHP Warning:  define() expects at most 3 parameters, 4 given in /home/kitchenfound/public_html/3dplanner/config.php on line 10
+[08-Aug-2014 10:04:20 UTC] PHP Warning:  define() expects at most 3 parameters, 4 given in /home/kitchenfound/public_html/3dplanner/config.php on line 11
+[08-Aug-2014 10:04:25 UTC] PHP Warning:  define() expects at most 3 parameters, 4 given in /home/kitchenfound/public_html/3dplanner/config.php on line 10
+[08-Aug-2014 10:04:25 UTC] PHP Warning:  define() expects at most 3 parameters, 4 given in /home/kitchenfound/public_html/3dplanner/config.php on line 11
+[08-Aug-2014 10:06:51 UTC] PHP Notice:  Constant WEBSITE_NOREPLY_EMAIL already defined in /home/kitchenfound/public_html/3dplanner/config.php on line 11
+[08-Aug-2014 10:06:51 UTC] PHP Notice:  Constant WEBSITE_CONTACT_EMAIL already defined in /home/kitchenfound/public_html/3dplanner/config.php on line 13
+[08-Aug-2014 10:07:42 UTC] PHP Notice:  Constant WEBSITE_NOREPLY_EMAIL already defined in /home/kitchenfound/public_html/3dplanner/config.php on line 11

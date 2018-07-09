@@ -1,0 +1,149 @@
+body{
+	background:#000;
+	padding:0px;
+	margin:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFF
+}
+a.large_red_btn{
+	padding:0px 0px 0px 0px; 
+	height:32px; 
+	background:url(../images/btn/btn_left_s1.png) left no-repeat; 
+	overflow:hidden; 
+	display:block; 
+	text-decoration:none;
+}
+a.large_red_btn span{
+	padding:0px 0px 0px 0px; 
+	height:32px; 
+	background:url(../images/btn/btn_right_s1.png) right no-repeat; 
+	overflow:hidden; 
+	display:block; 
+	text-decoration:none;
+}
+a.large_red_btn strong{
+	color:#FFFFFF; 
+	font-size:16px; 
+	font-family:Arial, Helvetica, sans-serif; 
+	text-decoration:none;
+	background:url(../images/btn/btn_backgr_s1.png) center;
+	display:block;
+	padding:7px 0px 0px 0px; 
+	height:25px;
+	margin:0px 5px 0px 5px
+}
+.w300{
+	width:300px;
+}
+.btri{
+	position:fixed;
+	bottom:2px;
+	right:2px
+}
+a.large_red_btn:hover{
+	background:url(../images/btn/btn_left_s1_on.png) left no-repeat; 
+}
+a.large_red_btn:hover span{
+	background:url(../images/btn/btn_right_s1_on.png) right no-repeat; 
+}
+a.large_red_btn:hover strong{
+	background:url(../images/btn/btn_backgr_s1_on.png) center; 
+}
+h1.title{
+	text-align:center;
+	color:#FFF;
+	margin:0px 0px 50px 0px;
+	background:#000;
+	padding:5px;
+	cursor:default
+}
+a.logo{
+	background:url(../images/logo.png);
+	width:26px;
+	height:30px;
+	overflow:hidden;
+	display:block;
+	float:left;
+	text-indent:-9999px;
+	margin-bottom:2px;
+        margin-top:-2px;
+}
+#header{
+	position:fixed;
+        height:30px;
+	top:0px; 
+	left:0px; 
+	border-bottom:2px solid #cc0001; 
+	padding:4px 2px 0px 2px; 
+	background:#000
+}
+
+.login-bar{
+	position:fixed;
+	left:220px; 
+	font-size:18px; 
+	top:0px; 
+	border:0px; 
+	color:#fff;
+	padding:2px;
+	margin-top:4px
+}
+.login-bar a{
+	color:#fff;
+	text-decoration:none
+}
+.login-bar a:hover{
+	color:#ff9191;
+}
+a.helpBtn{
+	display:block;
+	float:right;
+	background:#cc0001;
+	color:#FFF;
+	padding:2px 4px 2px 4px;
+	text-decoration:none;
+	font-size:20px;
+	margin:2px 10px 0px 0px
+}
+a.helpBtn:hover{
+	background:#ff4040;	
+}
+#helpDiv{
+	display:none;
+	position:fixed;
+	top:36px;
+	right:8px;
+	background:#000;
+	padding:0px;
+	text-align:left;
+}
+#helpDiv a{
+	font-size:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFF;
+	display:block;
+	width:200px;
+	overflow:hidden;
+	padding:0px;
+	margin:0px;
+	text-decoration:none;
+	background:#000;
+}
+#helpDiv a:hover{
+	background:#cc0001;
+}
+button.btn_back{
+	border-radius:2px;
+	background:#F3F3F3;
+	color:#333333;
+	border:0px;
+	cursor:pointer;
+	font-size:11px;
+	font-weight:bold
+}
+.birthday-picker{
+	border:0px;
+	padding:0px;
+	margin:0px
+}

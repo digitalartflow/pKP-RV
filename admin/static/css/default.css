@@ -1,0 +1,183 @@
+html,body{
+	padding:0px;
+	margin:0px;
+	font-size:12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color:#031d27;
+	background:#fff;
+	height:100%;
+}
+#loginh{
+	position:absolute;
+	top:0;
+	left:0;
+	background:url("blitzer/images/admin-bg.png");
+	background-size:100% 100%;
+        background-repeat:no-repeat;
+	padding:10px;
+	border:1px solid #CCC;
+	border-radius:0px;
+	box-shadow:2px 2px 2px #A3A3A3
+}
+
+#meniu{
+	height:100%; float: left; background: #4D4D4D; width:220px; overflow:auto; border:0px solid #FFF;
+	box-shadow:0px 0px 5px #000
+}
+#meniu h2{
+	color:#fff;
+	font-size:14px;
+	margin:0px;
+	padding:4px
+}
+#meniu a{
+	display:block;
+	text-decoration:none;
+	padding:5px;
+	color:#fff;
+	background: #4D4D4D;
+	border-top:1px solid #BFBFBF;
+	margin-bottom:2px
+}
+#meniu a:hover{
+	background: #f85032;
+	color:#fff
+}
+
+
+h1{
+	font-size:20px;
+	padding:0px;
+	margin:0px;
+}
+h2{
+	font-size:14px;
+	padding:0px;
+	margin:0px;
+	text-align:left
+}
+#loginh h1{
+	font-size:20px;
+	padding:0px;
+	margin:0px;
+	text-align:center
+}
+#loginh table{
+	margin:20px 0px 0px 0px
+}
+input[type=text], input[type=password]{
+	width:95%;
+	padding:2px;
+	border:1px solid #999;
+	border-radius:0px;
+}
+textarea{
+	width:95%;
+	padding:2px;
+	border:1px solid #999;
+	border-radius:0px;
+	height:50px
+}
+input[type=submit], input[type=button]{
+	background: #3D87FF;
+	cursor:pointer;
+	border:0px solid #796211;
+	border-radius:0px;
+	padding:4px 8px 4px 8px;
+	color:#fff;
+	font-weight:bold
+}
+.paginare{
+	text-align:right;
+	border: 0px;
+	padding:4px;
+	overflow:hidden;
+	background: #7d7e7d;
+	margin:1px;
+	color:#FFF
+}
+.paginare a{
+	display:inline-block;
+	padding:2px 6px 2px 6px;
+	background:#CCC;
+	color:#333;
+	text-decoration:none;
+	border:1px;
+	text-align:center
+}
+.paginare a:hover, .paginare a.on{
+	display:inline-block;
+	padding:2px 6px 2px 6px;
+	background: #fff;
+	color:#000;
+	text-decoration:none;
+	border:1px;
+	text-align:center
+}
+fieldset{
+	border:1px solid #666;
+	border-radius:0px;
+}
+fieldset legend{
+	background:#666;
+	color:#FFFFFF;
+	padding:5px 15px 5px 15px;
+	border:1px;
+}
+fieldset fieldset{
+	background:#F3F3F3;
+	border:1px solid #666
+}
+.tabs{
+	overflow:hidden;
+	padding-left:10px
+}
+.tabs a{
+	border-radius:0px 0px 0px 0px;
+	background:#CCCCCC;
+	color:#333333;
+	padding:5px 10px 0px 10px;
+	float:left;
+	margin:5px 0px 0px 5px;
+	text-decoration:none
+}
+.tabs a.on, .tabs a:hover{
+	border-radius:0px 0px 0px 0px;
+	background:#666666;
+	color:#FFFFFF;
+	padding:5px 10px;
+	float:left;
+	margin:0px 0px 0px 5px;
+	text-decoration:none;
+	padding:5px 10px 5px 10px;
+}
+.imgNice{
+	margin:2px;
+	box-shadow:2px 2px 5px #000000; 
+	padding:2px; 
+	background:#FFFFFF;
+	border:1px
+}
+.arrow_link{
+	display:inline-block;
+	padding:5px 10px 5px 10px;
+	border:1px;
+	background:#333333;
+	color:#FFFFFF;
+	text-decoration:none;
+	font-weight:bold;
+	margin:2px
+	
+}
+/* ATTACHED LOADER */
+.attachedLoader{
+	background:url(../img/loading_bar.gif) no-repeat center #FFFFFF;
+	position:absolute;
+	/*top:0px;
+	left:0px;*/
+	display:none;
+	z-index:9999;
+	opacity:0.5;
+	filter:alpha(opacity=50);
+}
+/******************/

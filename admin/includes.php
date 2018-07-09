@@ -1,0 +1,13 @@
+<?php
+	include("config.php");
+	include('classes/db/DbBase.php');
+	include('classes/db/DbList.php');
+	include('classes/db/DbClasses.php');
+	include('classes/lib/image_uploader.class.php');
+	include('classes/Util.php');
+	include('classes/Paginare.php');
+	include('classes/phpmailer/class.phpmailer.php');
+	include('classes/alert_handler.class.php');
+	require('smarty/Smarty.class.php');
+	include('classes/lib/getfromdb.class.php');
+?>

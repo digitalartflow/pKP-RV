@@ -1,0 +1,754 @@
+[09-Jul-2014 09:20:26 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:20:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:21:10 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:21:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:22:59 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:22:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:23:03 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:23:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:28:59 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:28:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:35:31 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:35:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:35:34 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:35:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:36:01 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:36:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:36:04 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:36:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:36:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:36:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:36:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ixed.5.3.lin' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/ixed.5.3.lin: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:36:24 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:36:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:36:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:36:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:36:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ixed.5.3.lin' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/ixed.5.3.lin: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:36:27 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:36:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:37:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:37:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:37:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ixed.5.3.lin' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/ixed.5.3.lin: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:37:57 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:37:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:38:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/suhosin.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/suhosin.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:38:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/sqlite.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:38:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/ixed.5.3.lin' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/ixed.5.3.lin: cannot open shared object file: No such file or directory in Unknown on line 0
+[09-Jul-2014 09:38:04 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:38:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:41:59 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:41:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:42:03 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:42:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:42:45 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:42:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:42:51 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:42:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:43:22 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/pages/logout.php on line 3
+[09-Jul-2014 09:43:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/pages/logout.php:3) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:43:31 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlWithoutKeys() should not be called statically in /home/metropla/public_html/admin/pages/units.php on line 26
+[09-Jul-2014 09:43:41 UTC] PHP Strict Standards:  Non-static method Util::search() should not be called statically in /home/metropla/public_html/admin/pages/unit_edit.php on line 180
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[09-Jul-2014 09:43:41 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[09-Jul-2014 09:44:36 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:44:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:44:39 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:44:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:45:03 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/pages/login.php on line 13
+[09-Jul-2014 09:45:03 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlHTTP() should not be called statically in /home/metropla/public_html/admin/classes/Util.php on line 203
+[09-Jul-2014 09:45:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/pages/login.php:13) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:45:12 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/pages/login.php on line 13
+[09-Jul-2014 09:45:12 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlHTTP() should not be called statically in /home/metropla/public_html/admin/classes/Util.php on line 203
+[09-Jul-2014 09:45:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/pages/login.php:13) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:45:35 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/pages/login.php on line 13
+[09-Jul-2014 09:45:35 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlHTTP() should not be called statically in /home/metropla/public_html/admin/classes/Util.php on line 203
+[09-Jul-2014 09:45:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/pages/login.php:13) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:45:41 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/pages/login.php on line 13
+[09-Jul-2014 09:45:41 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlHTTP() should not be called statically in /home/metropla/public_html/admin/classes/Util.php on line 203
+[09-Jul-2014 09:45:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/pages/login.php:13) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:46:03 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:46:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:50:04 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:50:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:50:19 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:50:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:51:13 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:51:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 09:52:18 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 09:52:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 10:01:11 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 10:01:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 16:50:38 UTC] PHP Strict Standards:  Non-static method Util::Redirect() should not be called statically in /home/metropla/public_html/admin/index.php on line 49
+[09-Jul-2014 16:50:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/index.php:49) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 16:54:37 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlHTTP() should not be called statically in /home/metropla/public_html/admin/classes/Util.php on line 203
+[09-Jul-2014 16:54:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/Util.php:203) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 16:54:53 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlHTTP() should not be called statically in /home/metropla/public_html/admin/classes/Util.php on line 203
+[09-Jul-2014 16:54:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/Util.php:203) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 16:55:01 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlHTTP() should not be called statically in /home/metropla/public_html/admin/classes/Util.php on line 203
+[09-Jul-2014 16:55:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/Util.php:203) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 16:55:32 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlHTTP() should not be called statically in /home/metropla/public_html/admin/classes/Util.php on line 203
+[09-Jul-2014 16:55:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/Util.php:203) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 16:55:42 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlHTTP() should not be called statically in /home/metropla/public_html/admin/classes/Util.php on line 203
+[09-Jul-2014 16:55:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/Util.php:203) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[09-Jul-2014 19:17:40 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlWithoutKeys() should not be called statically in /home/metropla/public_html/admin/pages/units.php on line 26
+[13-Jul-2014 10:05:20 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlWithoutKeys() should not be called statically in /home/metropla/public_html/admin/pages/units.php on line 26
+[13-Jul-2014 10:30:47 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlWithoutKeys() should not be called statically in /home/metropla/public_html/admin/pages/furniture_types.php on line 52
+[13-Jul-2014 10:31:15 UTC] PHP Strict Standards:  Non-static method DbList::Select() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 64
+[13-Jul-2014 10:31:15 UTC] PHP Strict Standards:  Non-static method Util::cleanString() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/lib/image_uploader.class.php on line 53
+[13-Jul-2014 10:31:15 UTC] PHP Strict Standards:  Non-static method DbList::Update() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 131
+[13-Jul-2014 10:31:15 UTC] PHP Strict Standards:  Non-static method DbList::ExecNoneQuery() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbList.php on line 88
+[13-Jul-2014 10:31:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/db/DbBase.php:64) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[13-Jul-2014 10:31:19 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlWithoutKeys() should not be called statically in /home/metropla/public_html/admin/pages/furniture_types.php on line 52
+[13-Jul-2014 10:31:26 UTC] PHP Strict Standards:  Non-static method DbList::Select() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 64
+[13-Jul-2014 10:31:26 UTC] PHP Strict Standards:  Non-static method Util::cleanString() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/lib/image_uploader.class.php on line 53
+[13-Jul-2014 10:31:26 UTC] PHP Strict Standards:  Non-static method Util::cleanString() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/lib/image_uploader.class.php on line 53
+[13-Jul-2014 10:31:26 UTC] PHP Strict Standards:  Non-static method DbList::Update() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 131
+[13-Jul-2014 10:31:26 UTC] PHP Strict Standards:  Non-static method DbList::ExecNoneQuery() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbList.php on line 88
+[13-Jul-2014 10:31:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/db/DbBase.php:64) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[13-Jul-2014 10:31:29 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlWithoutKeys() should not be called statically in /home/metropla/public_html/admin/pages/furniture_types.php on line 52
+[13-Jul-2014 10:31:31 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlWithoutKeys() should not be called statically in /home/metropla/public_html/admin/pages/units.php on line 26
+[13-Jul-2014 10:31:42 UTC] PHP Strict Standards:  Non-static method Util::cauta() should not be called statically in /home/metropla/public_html/admin/pages/handles.php on line 62
+[13-Jul-2014 10:31:42 UTC] PHP Strict Standards:  Non-static method Util::cauta() should not be called statically in /home/metropla/public_html/admin/pages/handles.php on line 62
+[13-Jul-2014 10:31:42 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlWithoutKeys() should not be called statically in /home/metropla/public_html/admin/pages/handles.php on line 74
+[13-Jul-2014 10:31:53 UTC] PHP Strict Standards:  Non-static method DbList::Select() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 64
+[13-Jul-2014 10:31:53 UTC] PHP Strict Standards:  Non-static method DbList::Delete() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 145
+[13-Jul-2014 10:31:53 UTC] PHP Strict Standards:  Non-static method DbList::ExecNoneQuery() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbList.php on line 104
+[13-Jul-2014 10:31:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/db/DbBase.php:64) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[13-Jul-2014 10:52:28 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlWithoutKeys() should not be called statically in /home/metropla/public_html/admin/pages/units.php on line 26
+[13-Jul-2014 11:59:30 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlWithoutKeys() should not be called statically in /home/metropla/public_html/admin/pages/room_doors.php on line 129
+[13-Jul-2014 12:01:20 UTC] PHP Strict Standards:  Non-static method Util::GetCurrentUrlWithoutKeys() should not be called statically in /home/metropla/public_html/admin/pages/room_doors.php on line 129
+[13-Jul-2014 12:03:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 12:03:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 12:03:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 12:03:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 12:03:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 12:03:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 12:03:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 12:03:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 12:03:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 12:03:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 12:03:55 UTC] PHP Strict Standards:  Non-static method DbList::Select() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 64
+[13-Jul-2014 12:03:55 UTC] PHP Strict Standards:  Non-static method DbList::Update() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 131
+[13-Jul-2014 12:03:55 UTC] PHP Strict Standards:  Non-static method DbList::ExecNoneQuery() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbList.php on line 88
+[13-Jul-2014 12:03:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/db/DbBase.php:64) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::Select() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 64
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::Select() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 64
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::Delete() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 145
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::ExecNoneQuery() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbList.php on line 104
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::Select() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 64
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::Delete() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 145
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::ExecNoneQuery() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbList.php on line 104
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::Select() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 64
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::Delete() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 145
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::ExecNoneQuery() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbList.php on line 104
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::Delete() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 145
+[13-Jul-2014 12:04:12 UTC] PHP Strict Standards:  Non-static method DbList::ExecNoneQuery() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbList.php on line 104
+[13-Jul-2014 12:04:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/db/DbBase.php:64) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[13-Jul-2014 12:04:58 UTC] PHP Strict Standards:  Non-static method DbList::Select() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 64
+[13-Jul-2014 12:04:58 UTC] PHP Strict Standards:  Non-static method DbList::Update() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 131
+[13-Jul-2014 12:04:58 UTC] PHP Strict Standards:  Non-static method DbList::ExecNoneQuery() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbList.php on line 88
+[13-Jul-2014 12:04:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/db/DbBase.php:64) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[13-Jul-2014 12:32:06 UTC] PHP Fatal error:  Constructor DbBase::DbBase() cannot be static in /home/metropla/public_html/admin/classes/db/DbBase.php on line 156
+[13-Jul-2014 12:32:24 UTC] PHP Fatal error:  Constructor DbList::DbList() cannot be static in /home/metropla/public_html/admin/classes/db/DbList.php on line 145
+[13-Jul-2014 12:32:48 UTC] PHP Fatal error:  Cannot make non static method DbBase::getTableName() static in class DbRoomDoor in /home/metropla/public_html/admin/classes/db/DbClasses.php on line 19
+[13-Jul-2014 12:33:32 UTC] PHP Strict Standards:  Non-static method DbList::Select() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 64
+[13-Jul-2014 12:33:32 UTC] PHP Strict Standards:  Non-static method DbList::Update() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 131
+[13-Jul-2014 12:33:32 UTC] PHP Strict Standards:  Non-static method DbList::ExecNoneQuery() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbList.php on line 88
+[13-Jul-2014 12:33:32 UTC] PHP Strict Standards:  Non-static method DbList::Select() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 64
+[13-Jul-2014 12:33:32 UTC] PHP Strict Standards:  Non-static method DbList::Update() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbBase.php on line 131
+[13-Jul-2014 12:33:32 UTC] PHP Strict Standards:  Non-static method DbList::ExecNoneQuery() should not be called statically, assuming $this from incompatible context in /home/metropla/public_html/admin/classes/db/DbList.php on line 88
+[13-Jul-2014 12:33:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/db/DbBase.php:64) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[13-Jul-2014 12:48:42 UTC] PHP Notice:  Undefined variable: this in /home/metropla/public_html/admin/classes/db/DbList.php on line 142
+[13-Jul-2014 12:48:42 UTC] PHP Notice:  Undefined variable: this in /home/metropla/public_html/admin/classes/db/DbList.php on line 142
+[13-Jul-2014 12:48:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/db/DbList.php:142) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:13:52 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 14:14:14 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 15:52:12 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 15:52:24 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:52:24 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:52:24 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:52:24 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:52:24 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:52:24 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:52:24 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:52:24 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:52:24 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:52:24 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:47 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:52 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:52 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:52 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:52 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:52 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:52 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:52 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:52 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:58 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:58 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:58 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:58 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:58 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:58 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:54:58 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:03 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:03 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:03 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:03 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:03 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:03 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:08 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:08 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:08 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:08 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:08 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:13 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:13 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:13 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:13 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:17 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:17 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:17 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:21 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:21 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:40 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:55:40 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:56:03 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:56:03 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:56:17 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:56:17 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 15:56:17 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:18 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:18 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:18 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:39 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:39 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:39 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:39 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:48 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:48 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:48 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:48 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:54 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:54 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:54 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:00:54 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:01:00 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:01:00 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:01:00 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:01:00 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:03:09 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:03:09 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:03:09 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:03:09 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:05:42 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:05:42 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:05:42 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:05:42 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:05:51 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:05:51 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:05:51 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:05:51 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:09:01 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:09:01 UTC] PHP Notice:  Undefined variable: handles in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:09:01 UTC] PHP Notice:  Undefined variable: tops in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:09:01 UTC] PHP Notice:  Undefined variable: variations in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:10:21 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:10:31 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:10:31 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:10:40 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:10:40 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:10:40 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:10:40 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:10:40 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:11:24 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:11:24 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:11:24 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:11:24 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:11:24 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:13:05 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:13:05 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:13:05 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:13:05 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:14:26 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/metropla/public_html/admin/classes/lib/image_uploader.class.php on line 74
+[13-Jul-2014 16:14:26 UTC] PHP Warning:  exec() has been disabled for security reasons in /home/metropla/public_html/admin/classes/lib/image_uploader.class.php on line 81
+[13-Jul-2014 16:14:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/metropla/public_html/admin/classes/lib/image_uploader.class.php:74) in /home/metropla/public_html/admin/classes/Util.php on line 204
+[13-Jul-2014 16:15:08 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:15:08 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:15:08 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:15:08 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:15:08 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:15:39 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:15:39 UTC] PHP Notice:  Undefined variable: handles in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:15:39 UTC] PHP Notice:  Undefined variable: tops in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:15:39 UTC] PHP Notice:  Undefined variable: variations in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:16:42 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:16:57 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:16:57 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:17:04 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:17:04 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:17:04 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:17:04 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:17:04 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:17:52 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:17:52 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:17:52 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:17:52 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:17:52 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:18:04 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:18:04 UTC] PHP Notice:  Undefined variable: handles in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:18:04 UTC] PHP Notice:  Undefined variable: tops in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:18:04 UTC] PHP Notice:  Undefined variable: variations in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:18:54 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:19:04 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:19:04 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:19:11 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:19:11 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:19:11 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:19:11 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:19:11 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:19:45 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:19:45 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:19:45 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:19:45 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:19:45 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:20:04 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:20:04 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:20:04 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:20:04 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:20:04 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:20:16 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:20:16 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:20:16 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:20:16 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:20:16 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:20:22 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:20:22 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:20:22 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:20:22 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:20:22 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:20:32 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:20:32 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:20:32 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:20:32 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:20:32 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:21:06 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:21:06 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:21:06 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:21:06 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:21:06 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:21:26 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:21:26 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:21:26 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:21:26 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:21:26 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:21:34 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:21:34 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:21:34 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:21:34 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:21:34 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:22:53 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:22:53 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:22:53 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:22:53 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:23:06 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:23:06 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:23:06 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:23:06 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:23:06 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:26:04 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:04 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:04 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:04 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:11 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:11 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:11 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:19 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:19 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:19 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:26 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:26 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:26 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:33 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:33 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:33 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:40 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:40 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:26:40 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:28:12 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:28:12 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:28:12 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:28:12 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:28:12 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:28:28 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:28:28 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:28:28 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:28:28 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:28:28 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:28:40 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:28:40 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:28:40 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:28:40 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:28:40 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:28:47 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:28:47 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:28:47 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:28:47 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:28:47 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:28:56 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:28:56 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:28:56 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:09 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:09 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:09 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:09 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:26 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:26 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:26 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:26 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:26 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:36 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:36 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:36 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:36 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:36 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:36 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[13-Jul-2014 16:29:43 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:29:43 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:29:43 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:29:43 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:29:43 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:29:48 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:29:48 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:29:48 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:29:48 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:29:48 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:29:54 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:29:54 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:29:54 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:29:54 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:29:54 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:30:01 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:30:01 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:30:01 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:30:01 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:30:01 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:30:12 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:30:12 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:30:12 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:30:12 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:30:12 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:30:18 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:30:18 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:30:18 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:30:18 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:30:18 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:31:16 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:31:16 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:31:16 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:31:16 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:31:16 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:31:51 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:31:51 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:31:51 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:31:51 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:31:51 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[13-Jul-2014 16:32:00 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[13-Jul-2014 16:32:00 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[13-Jul-2014 16:32:00 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[13-Jul-2014 16:32:00 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[13-Jul-2014 16:32:00 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:10:43 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:10:43 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:10:43 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:10:43 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:10:43 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:11:25 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:11:25 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:11:25 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:11:25 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:11:25 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:47:02 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:47:02 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:47:02 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:47:02 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:47:02 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:47:15 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:47:15 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:47:15 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:47:15 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:47:15 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:47:38 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:47:38 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:47:38 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:47:38 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:47:38 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:47:49 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:47:49 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:47:49 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:47:49 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:47:49 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:47:58 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:47:58 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:48:14 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:48:14 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:48:14 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:48:14 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:48:14 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:48:21 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:48:21 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:48:21 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:48:21 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:48:21 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:49:00 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:49:00 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:49:00 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:49:00 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:49:00 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:49:12 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:49:12 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:49:12 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:49:12 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:49:12 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:49:20 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:49:20 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:49:34 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:49:34 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:49:34 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:49:34 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:49:34 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:49:41 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:49:41 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:49:41 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:49:41 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:49:41 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[20-Jul-2014 14:50:06 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[20-Jul-2014 14:50:06 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[20-Jul-2014 14:50:06 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[20-Jul-2014 14:50:06 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[20-Jul-2014 14:50:06 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:09:18 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:18 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:18 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:18 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:18 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:18 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:28 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:28 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:28 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:28 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:28 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:33 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:33 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:33 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:33 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:36 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:36 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:36 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:42 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:42 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:42 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:51 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:51 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:51 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:09:58 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:09:58 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:09:58 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:09:58 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:09:58 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:10:08 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:10:08 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:10:08 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:10:08 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:10:08 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:10:14 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:10:14 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:10:14 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:10:14 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:10:14 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:10:20 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:10:20 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:10:20 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:10:20 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:10:20 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:10:30 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:10:30 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:10:30 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:10:30 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:10:30 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:10:36 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:10:36 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:10:36 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:10:36 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:10:36 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:12:03 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:03 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:03 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:21 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:21 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:21 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:21 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:28 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:28 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:28 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:28 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:35 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:35 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:35 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:35 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:12:41 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:13:16 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:13:16 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:13:16 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:13:16 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:13:59 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:13:59 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:13:59 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:13:59 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:14:10 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:14:10 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:14:10 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:14:10 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:14:50 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:14:50 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:14:50 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:14:50 UTC] PHP Notice:  Undefined index: Link in /home/metropla/public_html/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[22-Jul-2014 10:15:01 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:15:01 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:15:01 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:15:01 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:15:01 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:15:09 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:15:09 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:15:09 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:15:09 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:15:09 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:15:14 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:15:14 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:15:14 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:15:14 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:15:14 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:15:20 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:15:20 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:15:20 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:15:20 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:15:20 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:15:25 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:15:25 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:15:25 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:15:25 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:15:25 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[22-Jul-2014 10:15:30 UTC] PHP Notice:  Undefined variable: n in /home/metropla/public_html/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[22-Jul-2014 10:15:30 UTC] PHP Notice:  Undefined index: IdTop in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[22-Jul-2014 10:15:30 UTC] PHP Notice:  Undefined index: IdDoor in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[22-Jul-2014 10:15:30 UTC] PHP Notice:  Undefined index: IdTexture in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[22-Jul-2014 10:15:30 UTC] PHP Notice:  Undefined index: IdCarcass in /home/metropla/public_html/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[05-Aug-2014 13:35:32 UTC] PHP Notice:  Undefined index: Link in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[05-Aug-2014 13:35:32 UTC] PHP Notice:  Undefined index: Link in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[05-Aug-2014 13:35:32 UTC] PHP Notice:  Undefined index: Link in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[05-Aug-2014 13:35:32 UTC] PHP Notice:  Undefined index: Link in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[05-Aug-2014 13:35:39 UTC] PHP Notice:  Undefined index: Link in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[05-Aug-2014 13:35:39 UTC] PHP Notice:  Undefined index: Link in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[05-Aug-2014 13:35:39 UTC] PHP Notice:  Undefined index: Link in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[05-Aug-2014 13:35:42 UTC] PHP Notice:  Undefined index: Link in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[05-Aug-2014 13:35:42 UTC] PHP Notice:  Undefined index: Link in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[05-Aug-2014 13:35:44 UTC] PHP Notice:  Undefined index: Link in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/79ed000ed8e06cdfd113a6fa5b3b06aad58bc91c.file.unit_categories.tpl.php on line 214
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined variable: n in /home/kitchenfound/public_html/3dplanner/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined variable: n in /home/kitchenfound/public_html/3dplanner/admin/smarty/sysplugins/smarty_internal_data.php on line 291
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTop in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTop in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTop in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTop in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTop in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 680
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdDoor in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdDoor in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdDoor in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 938
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTexture in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTexture in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTexture in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTexture in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTexture in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTexture in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTexture in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdTexture in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 958
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdCarcass in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978
+[05-Aug-2014 14:09:26 UTC] PHP Notice:  Undefined index: IdCarcass in /home/kitchenfound/public_html/3dplanner/admin/tmp/templates_c/095fbc7f065d1cb594cc61883f23ac637e8fcd45.file.unit_edit.tpl.php on line 978

@@ -1,0 +1,18 @@
+Options -Indexes
+Options +FollowSymlinks
+RewriteEngine On
+
+RewriteRule ^images/codsecuritate.jpg	codsecuritate.php?width=100&height=20 [L]
+
+RewriteRule ^program/(.*)$      program/$1 [L]
+RewriteRule ^show-page/(.*)$ getPage.php?page=$1 [L]
+RewriteRule ^(.*).html$      index.php?page=$1 [QSA,L]
+RewriteRule ^get_data/room_design_preview.txt$      ajax/data_handler.php?action=get_room_design&preview [L]
+RewriteRule ^get_data/room_design.txt$      ajax/data_handler.php?action=get_room_design [L]
+RewriteRule ^get_data/room_style.txt$      ajax/data_handler.php?action=get_room_style [L]
+RewriteRule ^get_data/units_categs.xml$      ajax/getUnitsCategories.php [L]
+
+#RewriteRule ^uploads/unit_u([0-9]+)_h([0-9]+)_t([0-9]+)_a([0-9]+).png$      uploads/renderings/unit_u$1_h$2_t$3_a$4.png [L]
+
+RewriteRule ^uploads/unit_u([0-9]+)_h([0-9]+)_t([0-9]+)_a([0-9]+).png$      getUnitPic.php?u=$1&h=$2&t=$3&a=$4 [L]
+#RewriteRule ^(.*)$ handle_error.php [L]

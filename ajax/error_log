@@ -1,0 +1,7 @@
+[20-Jul-2014 15:00:29 UTC] PHP Notice:  Undefined offset: 0 in /home/metropla/public_html/Classes/DbConnection/DbList.php on line 29
+[08-Aug-2014 10:04:13 UTC] PHP Warning:  define() expects at most 3 parameters, 4 given in /home/kitchenfound/public_html/3dplanner/config.php on line 10
+[08-Aug-2014 10:04:13 UTC] PHP Warning:  define() expects at most 3 parameters, 4 given in /home/kitchenfound/public_html/3dplanner/config.php on line 11
+[08-Aug-2014 10:04:25 UTC] PHP Warning:  define() expects at most 3 parameters, 4 given in /home/kitchenfound/public_html/3dplanner/config.php on line 10
+[08-Aug-2014 10:04:25 UTC] PHP Warning:  define() expects at most 3 parameters, 4 given in /home/kitchenfound/public_html/3dplanner/config.php on line 11
+[08-Aug-2014 10:04:26 UTC] PHP Warning:  define() expects at most 3 parameters, 4 given in /home/kitchenfound/public_html/3dplanner/config.php on line 10
+[08-Aug-2014 10:04:26 UTC] PHP Warning:  define() expects at most 3 parameters, 4 given in /home/kitchenfound/public_html/3dplanner/config.php on line 11
